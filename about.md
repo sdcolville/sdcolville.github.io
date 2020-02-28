@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
 Some information about me!
 
-### Contact me
-
-[colville.scott@gmail.com](mailto:colville.scott@gmail.com)

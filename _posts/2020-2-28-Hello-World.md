@@ -3,6 +3,10 @@ layout: post
 title: Hello, World!
 ---
 
-This is a blog post./n
-I am testing with git!/n
-new line?
+This is a blog post.
+I am testing with git!
+
+
+testing
+
+testing

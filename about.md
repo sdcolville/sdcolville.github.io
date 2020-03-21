@@ -20,8 +20,8 @@ Canadian Light Source
 ## Education
 **Master of Science - Geological Sciences, 2018**  
 University of Saskatchewan  
-Thesis - *Enhanced Petroleum Hydrocarbon Remediation by Biostimulation: Effects on groundwater Microbial Communities, Geochemistry, and Mineralogy.*
+Thesis: Enhanced Petroleum Hydrocarbon Remediation by Biostimulation: Effects on groundwater Microbial Communities, Geochemistry, and Mineralogy.
 
 **Bachelor of Science - Environmental Engineering, 2015**  
 University of Saskatchewan  
-Capstone - *Designing a Municipal Organic Waste Management Facility to Generate Bioenergy.*
+Capstone - Designing a Municipal Organic Waste Management Facility to Generate Bioenergy.
